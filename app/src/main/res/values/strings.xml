@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MTG Card Search</string>
+    <string name="txtAcerca">Aplicación realizada por: Alberto Saiz Balansag \n 2021</string>
+    <string name="btVolver">Volver</string>
+    <string name="btPulsaAqui">Pulsa aquí</string>
+    <string name="menu_item_1">Esto es</string>
+    <string name="menu_item_2">un menú</string>
+    <string name="menu_item_3">POPUP</string>
+</resources>
